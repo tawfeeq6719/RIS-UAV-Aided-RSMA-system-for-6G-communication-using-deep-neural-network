@@ -2,7 +2,7 @@
 
 1.) This is my B.tech final year project .
 
-2.) In this project , I have introduced a DNN model to predict outage probability for corresponding SINR ( signal to Noise ratio ) with better accuracy compared to the DNN model that were introduced earlier .
+2.) In this project , I have introduced a DNN(deep nural network) model to predict outage probability for corresponding SINR ( signal to Noise ratio ) with better accuracy compared to the DNN model that were introduced earlier .
 
 3.) this are the performance metrics of my DNN model :
   
